@@ -1,4 +1,4 @@
-package com.fj_ramirez.pointSetUtility;
+package com.fjramirez.pointSetUtility;
 
 import java.util.*;
 import java.awt.geom.Point2D;

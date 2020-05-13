@@ -1,4 +1,4 @@
-package com.fj_ramirez.pointSetUtility;
+package com.fjramirez.pointSetUtility;
 
 public class ConversionFactor {
     public final static double TO_METERS = 111180.3115;
